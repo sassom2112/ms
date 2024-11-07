@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/ms/static/css/main.b9ddd671.css",
-    "main.js": "/ms/static/js/main.1666aecf.js",
+    "main.js": "/ms/static/js/main.e4c265a2.js",
     "static/media/LAMP.svg": "/ms/static/media/LAMP.54e26cb2048f6543564142ab7e43fe8b.svg",
     "static/media/cybersecurity-fundamentals-micro-credential.png": "/ms/static/media/cybersecurity-fundamentals-micro-credential.e0a7b5e8b0b34512b7ab.png",
-    "static/media/AWS_HIPPA.svg": "/ms/static/media/AWS_HIPPA.f8ae23b310564e1efb668173c52633e3.svg",
     "static/media/headshot.jpg": "/ms/static/media/headshot.4bb9b0bc72c6cebd877c.jpg",
     "static/media/certified-in-cybersecurity-cc.png": "/ms/static/media/certified-in-cybersecurity-cc.1fcabc6cd0ddb64ff45a.png",
     "static/media/introduction-to-cybersecurity.png": "/ms/static/media/introduction-to-cybersecurity.cd97b9f1f7d2fd2b43b2.png",
     "index.html": "/ms/index.html",
     "main.b9ddd671.css.map": "/ms/static/css/main.b9ddd671.css.map",
-    "main.1666aecf.js.map": "/ms/static/js/main.1666aecf.js.map"
+    "main.e4c265a2.js.map": "/ms/static/js/main.e4c265a2.js.map"
   },
   "entrypoints": [
     "static/css/main.b9ddd671.css",
-    "static/js/main.1666aecf.js"
+    "static/js/main.e4c265a2.js"
   ]
 }
