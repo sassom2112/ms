@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ms/static/css/main.13fc0066.css",
-    "main.js": "/ms/static/js/main.ed3494f6.js",
+    "main.js": "/ms/static/js/main.134523b0.js",
     "static/media/LAMP.svg": "/ms/static/media/LAMP.ba674d7a44cacb41b585b509ae6ba52b.svg",
     "static/media/ISC2-CC_digitalcert.png": "/ms/static/media/ISC2-CC_digitalcert.c6955612c07b9d95805c.png",
     "static/media/cybersecurity-fundamentals-micro-credential.png": "/ms/static/media/cybersecurity-fundamentals-micro-credential.e0a7b5e8b0b34512b7ab.png",
@@ -28,10 +28,10 @@
     "index.html": "/ms/index.html",
     "static/media/memory.svg": "/ms/static/media/memory.3dc1894aea94d65c03ba1bfc498aa44d.svg",
     "main.13fc0066.css.map": "/ms/static/css/main.13fc0066.css.map",
-    "main.ed3494f6.js.map": "/ms/static/js/main.ed3494f6.js.map"
+    "main.134523b0.js.map": "/ms/static/js/main.134523b0.js.map"
   },
   "entrypoints": [
     "static/css/main.13fc0066.css",
-    "static/js/main.ed3494f6.js"
+    "static/js/main.134523b0.js"
   ]
 }
